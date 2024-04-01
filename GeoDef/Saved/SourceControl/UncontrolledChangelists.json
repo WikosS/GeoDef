@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/Niagara/NS_Bullet.uasset",
+				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/Niagara/BP_BulletCallback.uasset",
+				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/4B/4HRJ1CSD2N7DJMV3BMT77E.uasset",
+				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/Niagara/NE_Bullet.uasset",
+				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/0O/71KVG0CCKK7CC81XWRNLV8.uasset",
+				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/Niagara/NS_Test.uasset"
+			]
+		}
+	]
+}
