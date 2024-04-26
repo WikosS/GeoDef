@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GeoDef.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\ttdar\OneDrive\Documents\GitHub\GeoDef\GeoDef\Intermediate\Build\Win64\x64\GeoDefEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"C:\Users\ttdar\OneDrive\Documents\GitHub\GeoDef\GeoDef\Intermediate\Build\Win64\x64\UnrealEditor\Development\GeoDef\GeoDef.init.gen.cpp.obj"
+"C:\Users\ttdar\OneDrive\Documents\GitHub\GeoDef\GeoDef\Intermediate\Build\Win64\x64\UnrealEditor\Development\GeoDef\MyLib.gen.cpp.obj"
+"C:\Users\ttdar\OneDrive\Documents\GitHub\GeoDef\GeoDef\Intermediate\Build\Win64\x64\UnrealEditor\Development\GeoDef\GeoDef.cpp.obj"
+"C:\Users\ttdar\OneDrive\Documents\GitHub\GeoDef\GeoDef\Intermediate\Build\Win64\x64\UnrealEditor\Development\GeoDef\MyLib.cpp.obj"
+"C:\Users\ttdar\OneDrive\Documents\GitHub\GeoDef\GeoDef\Intermediate\Build\Win64\x64\UnrealEditor\Development\GeoDef\Default.rc2.res"
+/OUT:"C:\Users\ttdar\OneDrive\Documents\GitHub\GeoDef\GeoDef\Intermediate\Build\Win64\x64\UnrealEditor\Development\GeoDef\UnrealEditor-GeoDef.lib"
