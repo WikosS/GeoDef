@@ -5,18 +5,41 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/Niagara/NS_Bullet.uasset",
-				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/Niagara/BP_BulletCallback.uasset",
-				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/4B/4HRJ1CSD2N7DJMV3BMT77E.uasset",
-				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/Niagara/NE_Bullet.uasset",
-				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/0O/71KVG0CCKK7CC81XWRNLV8.uasset",
-<<<<<<< Updated upstream
-				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/Niagara/NS_Test.uasset"
-=======
-				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/Niagara/NS_Test.uasset",
+				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/1X/TEVJ0IZJFYIAT4U6O7DAO6.uasset",
+				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/Blueprint/Gameplay/MoreDamage.uasset",
+				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/Blueprint/Gameplay/BP_GameplayAttributes.uasset",
+				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/Blueprint/Gameplay/AC_LevelingLootTable.uasset",
+				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/Blueprint/Gameplay/S_Stats.uasset",
+				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/Blueprint/Enemies/BP_Enemies.uasset",
+				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96.uasset",
+				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset",
+				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset",
+				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO.uasset",
+				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/17/6LXV4Y6DE3LUT705XNU4DZ.uasset",
+				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CZ/K2YM0JIRZ78IHGM8W2QBAF.uasset",
+				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN.uasset",
+				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/QO/CO9MG7REJF8N8AQFYRCI06.uasset",
+				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NC/UUYHDUFQAXTRRN4RVOPIUF.uasset",
+				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset",
+				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I.uasset",
+				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8K/1IKKDYS7RULH8FRYRPPF04.uasset",
+				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1.uasset",
+				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.uasset",
+				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL.uasset",
+				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset",
+				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset",
+				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/M3/7JQC72ZY37QM4IT43WD5CW.uasset",
+				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YT/CQR16QFDKKEYP53M51TV4F.uasset",
+				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8.uasset",
+				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset",
+				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
+				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
 				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
-				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/6R/ZI68B1DCV67ZSCOKEHLZC4.uasset"
->>>>>>> Stashed changes
+				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/Blueprint/Bullet/Component/BPC_BulletShooter.uasset",
+				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/UI/GUI.uasset",
+				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/Blueprint/Enemies/BP_EnemiesSpawner.uasset",
+				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/TR/OIMWZX1ND16L3JHB9P0PBK.uasset"
 			]
 		}
 	]

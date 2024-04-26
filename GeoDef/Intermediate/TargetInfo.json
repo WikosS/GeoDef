@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GeoDef",
+			"Path": "..\\Source\\GeoDef.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GeoDefEditor",
+			"Path": "..\\Source\\GeoDefEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
