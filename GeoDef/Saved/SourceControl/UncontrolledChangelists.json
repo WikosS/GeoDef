@@ -6,12 +6,17 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/1X/TEVJ0IZJFYIAT4U6O7DAO6.uasset",
-				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/Blueprint/Gameplay/MoreDamage.uasset",
-				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/Blueprint/Gameplay/BP_GameplayAttributes.uasset",
 				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/Blueprint/Gameplay/AC_LevelingLootTable.uasset",
 				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/Blueprint/Gameplay/S_Stats.uasset",
 				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/Blueprint/Enemies/BP_Enemies.uasset",
+				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/Blueprint/Bullet/Component/BPC_BulletShooter.uasset",
+				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/UI/GUI.uasset",
+				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/Blueprint/Enemies/BP_EnemiesSpawner.uasset",
+				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/TR/OIMWZX1ND16L3JHB9P0PBK.uasset",
+				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/ThirdPerson/Maps/level_test.umap",
+				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/1X/TEVJ0IZJFYIAT4U6O7DAO6.uasset",
+				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/Blueprint/Gameplay/MoreDamage.uasset",
+				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/Blueprint/Gameplay/BP_GameplayAttributes.uasset",
 				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96.uasset",
 				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset",
 				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset",
@@ -35,11 +40,7 @@
 				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset",
 				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
 				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
-				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
-				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/Blueprint/Bullet/Component/BPC_BulletShooter.uasset",
-				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/UI/GUI.uasset",
-				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/Blueprint/Enemies/BP_EnemiesSpawner.uasset",
-				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/TR/OIMWZX1ND16L3JHB9P0PBK.uasset"
+				"C:/Users/ttdar/OneDrive/Documents/GitHub/GeoDef/GeoDef/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset"
 			]
 		}
 	]
